@@ -9,3 +9,4 @@ This is a repo to store all my Rust learing code
 ### class_6: Arithmetic and Type Casting
 ### class_7: Conditions and Control Flow (if/else if/else)
 ### class_8: Functions, Expressions & Statements
+### class_9: Memory Management, Heap & Stack
